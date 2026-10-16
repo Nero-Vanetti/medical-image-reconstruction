@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.env
+*.mat
+*.npy
+*.npz
+*.nii
+*.nii.gz
+/mri/coil1_subsampled.png
+/mri/coil2_subsampled.png
